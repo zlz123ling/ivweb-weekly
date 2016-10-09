@@ -8,9 +8,7 @@
 
 ## Weekly 汇总
 
-- 2016年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2016>  
-- 2015年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2015>  
-- 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
+- 2016年 weekly 汇总： <https://github.com/zlz123ling/ivweb-weekly/>  
 
 ## 学习资源
 
