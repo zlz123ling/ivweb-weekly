@@ -2,7 +2,7 @@
 ========  
 
 构建 Facebook F8 2016 App / React Native 开发指南 (http://f8-app.liaohuqiu.net/)
-React-Native入门指南 https://github.com/vczero/react-native-lesson
+React-Native入门指南 (https://github.com/vczero/react-native-lesson)
 30天学习React Native教程 https://github.com/fangwei716/30-days-of-react-native
 React-Native视频教程(部分免费) https://egghead.io/technologies/react
 react-native 官方api文档 http://facebook.github.io/react-native/docs/getting-started.html
