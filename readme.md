@@ -21,7 +21,7 @@ IVWEB团队成立于2015年，团队前身是业界知名Web团队IMWEB团队的
 
 ## 团队博客
 
-- [IVWEB前端社区](http://imweb.io/) 
+- [IVWEB前端社区](http://ivweb.io/) 
 - [IVWEB github 博客专区](https://iv-web.github.io/) 
 
 ## 业界知名 Weekly
