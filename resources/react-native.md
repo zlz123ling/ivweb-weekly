@@ -1,7 +1,6 @@
 ## React Native
 ========  
-
-构建 Facebook F8 2016 App / React Native 开发指南 (http://f8-app.liaohuqiu.net/)
+** 构建 Facebook F8 2016 App / React Native 开发指南 http://f8-app.liaohuqiu.net/
 React-Native入门指南 (https://github.com/vczero/react-native-lesson)
 30天学习React Native教程 https://github.com/fangwei716/30-days-of-react-native
 React-Native视频教程(部分免费) https://egghead.io/technologies/react
@@ -31,20 +30,20 @@ react-native的第一课 https://github.com/coderyi/blog/blob/master/articles/20
 React-Native专题系列文章 http://www.lcode.org/react-native/
 
 ## React.js
-react.js中文文档 http://reactjs.cn/
+** react.js中文文档 http://reactjs.cn/
 react.js入门教程(gitbook) https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 react.js快速入门教程 - 阮一峰 http://www.ruanyifeng.com/blog/2015/03/react.html
 react.js视频教程 http://react-china.org/t/reactjs/584
 
 ## ES6
-深入浅出ES6（一）：ES6是什么 http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
+** 深入浅出ES6（一）：ES6是什么 http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
 深入浅出ES6（二）：迭代器和for-of循环 http://www.infoq.com/cn/articles/es6-in-depth-iterators-and-the-for-of-loop
 深入浅出ES6（三）：生成器 Generators http://www.infoq.com/cn/articles/es6-in-depth-generators
 深入浅出ES6（四）：模板字符串 http://www.infoq.com/cn/articles/es6-in-depth-template-string
 深入浅出ES6（五）：不定参数和默认参数 http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
 
 ## 系列教程
-深入浅出React（一）：React的设计哲学 - 简单之美 http://www.infoq.com/cn/articles/react-art-of-simplity
+** 深入浅出React（一）：React的设计哲学 - 简单之美 http://www.infoq.com/cn/articles/react-art-of-simplity
 深入浅出React（二）：React开发神器Webpack http://www.infoq.com/cn/articles/react-and-webpack
 深入浅出React（三）：理解JSX和组件 http://www.infoq.com/cn/articles/react-jsx-and-component
 深入浅出React（四）：虚拟DOM Diff算法解析 http://www.infoq.com/cn/articles/react-dom-diff
@@ -65,7 +64,7 @@ React Native探索（三）：与 react-web 的融合 http://www.infoq.com/cn/ar
 
 ## 开源APP
 
-研究源码也是一个很好的学习方式
+** 研究源码也是一个很好的学习方式
 官方演示App https://github.com/facebook/react-native/tree/master/Examples
 Facebook F8 App https://github.com/fbsamples/f8app
 奇舞周刊 iOS 版（上架应用） https://github.com/fakefish/Weekly75
@@ -114,13 +113,13 @@ ReactNativeRollingExamples - react-native的一些example https://github.com/jog
 Reading App Write In React-Native（Studying and Programing https://github.com/attentiveness/reading
 
 ## 图书
-《React Native入门与实战》 http://item.jd.com/11844102.html
+**《React Native入门与实战》 http://item.jd.com/11844102.html
 《React Native开发指南》 http://www.ituring.com.cn/book/1846
 《React Native跨平台移动应用开发》 http://item.jd.com/10372998311.html
 《React Native：用JavaScript开发移动应用》 http://item.jd.com/11785195.html
 
 ## 组件
-由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
+** 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 React-native组件库（比较全的组件库） https://js.coach/
 React Native Modules http://reactnativemodules.com/
 最佳轮播类组件 https://github.com/leecade/react-native-swiper
@@ -135,7 +134,7 @@ Material React Native (MRN) - Material Design组件库 https://github.com/binggg
 react-native-gitfeed - GitHub客户端(iOS/Android) https://github.com/xiekw2010/react-native-gitfeed
 
 ## 工具
-react-native-snippets(代码提示) https://github.com/Shrugs/react-native-snippets
+** react-native-snippets(代码提示) https://github.com/Shrugs/react-native-snippets
 react-native-babel(使用ES6+) https://github.com/roman01la/react-native-babel
 sqlite for react-native https://github.com/almost/react-native-sqlite
 gulp-react-native-css(就像写css一样写React Style) https://github.com/soliury/gulp-react-native-css
@@ -145,7 +144,7 @@ Deco IDE - React Native IDE https://www.decosoftware.com/
 ignite - React Native CLI项目生成器 https://github.com/infinitered/ignite
 
 ## 资源网站
-React-native官网 http://facebook.github.io/react-native/
+** React-native官网 http://facebook.github.io/react-native/
 React-China社区 http://react-china.org/
 React Native中文社区 http://bbs.react-native.cn/
 React-native组件库（比较全的组件库） http://react.parts/
@@ -155,7 +154,7 @@ Use React Native 资讯站(使用技巧及新闻) http://www.reactnative.com/
 稀土掘金的 React 标签 http://gold.xitu.io/#/tag/React.js http://gold.xitu.io/#/tag/React%20Native
 
 ## 业界讨论
-跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比） http://onevcat.com/2015/03/cross-platform/
+** 跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比） http://onevcat.com/2015/03/cross-platform/
 谈谈 React Native - 唐巧 http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/
 如何评价React-Native? https://www.zhihu.com/question/27852694/answer/43990708
 React Native概述：背景、规划和风险 http://div.io/topic/938
