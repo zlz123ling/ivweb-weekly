@@ -1,18 +1,27 @@
 # IVWEB-weekly
 ======
+IVWEB团队成立于2015年，团队前身是业界知名Web团队IMWEB团队的互动视频业务核心开发，参与了腾讯在线教育
+战略产品腾讯课堂，QQ群活动等项目的研发工作，团队创立之初是负责腾讯互动视频应用开发，花样直播，花样交
+友。目前主要负责腾讯移动直播产品NOW直播的研发工作。致力于前端技术开源、行业分享,开源是我们的特色，成
+为卓越的web全栈团队是我们的愿景!
 
-汇总平时看到优质文章和资源，技术、产品、管理均有，尽可能一周一篇。  
-同时分门别类收录前端研发相关的 javascript、css、php、python、管理等方面的高质量文章、类库。  
-欢迎大家在 [resources](resources) 中补充优质资源。  
-
+团队每周汇总团队或者业界优秀资源，于 [weekly](weekly) 中进行每周定时更新，同时分门别类收录前端研发相
+关的HTML、css、javascript、React、NodeJS全栈、React Native、移动开发、HTTP网络、Web安全、构建工具等方
+面的高质量文章、类库，欢迎大家在[resources](resources) 中补充优质资源。  
 
 ## Weekly 汇总
 
-- 2016年 weekly 汇总： <https://github.com/zlz123ling/ivweb-weekly/>  
+- 2016年 week[ly 汇总： <https://github.com/zlz123ling/ivweb-weekly/tree/master/weekly/2016>  
 
-## 学习资源
+## 资源集散中心
 
-- [Software Architecture Design](resources/software_architecture.md)
+- [JavaScript](resources/javascript.md)  
+- [node.js](resources/nodejs.md)  
+
+## 团队博客
+
+- [IVWEB前端社区](http://imweb.io/) 
+- [IVWEB github 博客专区](https://iv-web.github.io/) 
 
 ## 业界知名 Weekly
 
@@ -24,55 +33,4 @@
 [Node Weekly](http://nodeweekly.com/)  Node.js news and articles  
 [DB Weekly](http://dbweekly.com/)  news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.  
 
-## My Articles  
-
-- [关于时间和知识管理](https://github.com/zenany/zenany.github.io/blob/master/_posts/about_time_and_knowledge_management.md)  
-
-## 个人推荐
-
-### 基础技术  
-
-**The Architecture of Open Source Applications**  
-http://www.aosabook.org/en/index.html  
-Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another's mistakes rather than building on one another's successes. Our goal is to change that. In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development?
-
-### 职业规划
-
-- [迄今为止见过最好的职业规划](http://www.360doc.com/content/13/0512/16/3125585_284829243.shtml)  
-- [寒门再难出贵子](http://www.mtyyw.com/7013/)  
-
-## 优质网站
-
-### 性能优化
-
-- http://blog.optimizely.com/  
-- http://www.perfplanet.com/  
-- http://www.speedawarenessmonth.com/  
-- http://browserdiet.com/en/  
-- http://jankfree.org/
-- http://calendar.perfplanet.com/  
-
-### tech
-
-- [Hacker News](https://news.ycombinator.com/) : 不知道这个别说自己热爱技术、热爱互联网  
-- [Lifehacker](http://lifehacker.com/) : 著名的生活技巧与软件类博客  
-- [The Next Web](http://thenextweb.com/)  
-- [极客公园](http://www.geekpark.net/)  
-- [Mobilehub](http://mobilehub.io/)  
-
-### 神奇站点
-
-- [Etymology](http://www.chineseetymology.org/) 汉字字形汇总，一个老外 20 多年的杰作，让人肃然起敬
-
-## 个人知识库
-
-- [books](books.md) 记录我看过和计划看的书，14年后半年开始重点关注自然科学、计算机科学
-- [readings](books.md) ted 视频、记录片等
-- [杂项](resources.md) 暂未归类的一些资源
-
-## 资源集散中心
-
-- [JavaScript](resources/javascript.md)  
-- [node.js](resources/nodejs.md)  
-- [Android开发技术周报](http://www.androidweekly.cn/)  
 ----
